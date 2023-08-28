@@ -31,10 +31,10 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/orgs/Team-SoonMap/people/namest504">
+        <a href="https://github.com/namest504">
           <img src="https://github.com/Team-SoonMap/.github/assets/104314593/8cafa19e-e58e-402d-a24e-d58aa14d8868" alt="임승" width="64" />
           <br />
-          <a href="https://github.com/orgs/Team-SoonMap/people/namest504">임승택</a>
+          <a href="https://github.com/namest504">임승택</a>
         </a>
       </td>
       <td align="center">
